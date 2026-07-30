@@ -1,0 +1,7 @@
+streamlit
+torch
+sentence-transformers
+openai
+trafilatura
+PyPDF2
+ddgs
